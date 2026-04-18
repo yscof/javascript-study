@@ -109,7 +109,7 @@ numbers.sort((a, b) => a > b ? -1 : 1);
 console.log(numbers);
 
 // map()
-console.log('------------');
+console.log('-------map-----');
 console.log(iveMembers.map((x) => x));
 console.log(iveMembers.map((x) => `아이브: ${x}`));
 
